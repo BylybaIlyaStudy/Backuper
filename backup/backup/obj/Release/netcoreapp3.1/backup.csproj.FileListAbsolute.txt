@@ -1,0 +1,12 @@
+P:\C#\backup\backup\bin\Release\netcoreapp3.1\backup.exe
+P:\C#\backup\backup\bin\Release\netcoreapp3.1\backup.deps.json
+P:\C#\backup\backup\bin\Release\netcoreapp3.1\backup.runtimeconfig.json
+P:\C#\backup\backup\bin\Release\netcoreapp3.1\backup.runtimeconfig.dev.json
+P:\C#\backup\backup\bin\Release\netcoreapp3.1\backup.dll
+P:\C#\backup\backup\bin\Release\netcoreapp3.1\backup.pdb
+P:\C#\backup\backup\obj\Release\netcoreapp3.1\backup.AssemblyInfoInputs.cache
+P:\C#\backup\backup\obj\Release\netcoreapp3.1\backup.AssemblyInfo.cs
+P:\C#\backup\backup\obj\Release\netcoreapp3.1\backup.csproj.CoreCompileInputs.cache
+P:\C#\backup\backup\obj\Release\netcoreapp3.1\backup.dll
+P:\C#\backup\backup\obj\Release\netcoreapp3.1\backup.pdb
+P:\C#\backup\backup\obj\Release\netcoreapp3.1\backup.genruntimeconfig.cache
